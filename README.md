@@ -1,5 +1,7 @@
 # API de Gestión de Soporte Técnico (Spring Boot)
 
+Este es el repositorio de la asignatura de **Desarrollo de los Componentes del Negocio** para el proyecto `soportetecnico`.
+
 Este proyecto es una API RESTful robusta diseñada para la gestión de solicitudes de soporte técnico de clientes en una empresa de servicios tecnológicos. Ha sido desarrollada bajo estándares de arquitectura limpia y principios avanzados de Programación Orientada a Objetos (POO), garantizando un nivel académico **Sobresaliente**.
 
 ---
@@ -51,7 +53,7 @@ Siga los siguientes pasos para descargar y ejecutar el backend localmente:
 
 1. **Clonar o ubicarse en la carpeta raíz del proyecto**:
    ```bash
-   cd C:\Users\User\.gemini\antigravity-ide\scratch\soporte-tecnico-api
+   cd soporte-tecnico-api
    ```
 
 2. **Compilar y construir el archivo JAR**:
