@@ -9,6 +9,8 @@ package com.empresa.soporte.exception;
  */
 public class BadRequestException extends RuntimeException {
 
+    private static final long serialVersionUID = 1L;
+
     /**
      * Constructor con mensaje de error personalizado.
      *
