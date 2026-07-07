@@ -53,7 +53,7 @@ Siga los siguientes pasos para descargar y ejecutar el backend localmente:
 
 1. **Clonar o ubicarse en la carpeta raíz del proyecto**:
    ```bash
-   cd soporte-tecnico-api
+   cd soportetecnico
    ```
 
 2. **Compilar y construir el archivo JAR**:
